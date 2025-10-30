@@ -1,0 +1,8 @@
+# Ignore real credentials
+db.php
+# OS / editor files
+*.log
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
